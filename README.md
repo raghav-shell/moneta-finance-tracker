@@ -3,6 +3,8 @@
 A premium React-based Personal Finance app built for the classroom project.
 
 ---
+## 🌐 Live Demo
+https://moneta-finance-tracker.vercel.app/dashboard
 
 ## 🚀 Quick Setup
 
